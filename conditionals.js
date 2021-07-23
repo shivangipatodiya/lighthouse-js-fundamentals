@@ -6,7 +6,7 @@
 if(cold) {
   console.log("Make sure you pick out a scarf");
 } else {
-console.log("Short sleeves are fine");}*/
+console.log("Short sleeves are fine");}
 const temperature = 12;
 
 if (temperature < 0) {
@@ -16,5 +16,4 @@ if (temperature < 0) {
 } else {
   console.log("Short sleeves are fine.");
 }
-
-console.log("Now you're ready to go outside!");
+console.log("Now you're ready to go outside!");*/
